@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Hernandsv01's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandsv01&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandsv01&theme=radical)
+
 <!--
 **Hernandsv01/Hernandsv01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
