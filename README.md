@@ -28,8 +28,8 @@
 [![Hernandsv01's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandsv01&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--Commit streaks-->
-[![Hernandsv01's GitHub stats](https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Hernandsv01's GitHub stats](https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Hernandsv01's GitHub stats](https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Hernandsv01's GitHub stats](https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ###
 
