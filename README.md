@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hernán and I'm a Back End developer, from Argentina</p>
+<p align="left">My name is Hernán and I'm a Back End developer from Argentina</p>
 
 ###
 
@@ -18,17 +18,31 @@
 
 ###
 
-<!--GitHub stats-->
-[![Hernandsv01's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandsv01&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Hernandsv01's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandsv01&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<!--Most used languages chart-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandsv01&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandsv01&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<!--Commit streaks-->
-[![Hernandsv01's GitHub stats](https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Hernandsv01's GitHub stats](https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div align="center">
+  <!--GitHub stats-->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=hernandsv01&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="Hernandsv01's GitHub stats" height="200">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=hernandsv01&show_icons=true&theme=vue#gh-light-mode-only" alt="Hernandsv01's GitHub stats" height="200">
+  </a>
+  
+  <!--Most used languages chart-->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandsv01&layout=compact&theme=github_dark#gh-dark-mode-only" alt="Hernandsv01's Top Langs" height="200">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandsv01&layout=compact&theme=vue#gh-light-mode-only" alt="Hernandsv01's Top Langs" height="200">
+  </a>
+  
+  <!--Commit streaks-->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" alt="Hernandsv01's Commit Streaks" height="200">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" alt="Hernandsv01's Commit Streaks" height="200">
+  </a>
+</div>
 
 ###
 
