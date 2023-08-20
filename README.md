@@ -18,11 +18,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hernandsv01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hernandsv01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
+<!--Most used languages chart-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandsv01&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandsv01&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<!--GitHub stats-->
+[![Hernandsv01's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandsv01&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Hernandsv01's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandsv01&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<!--Commit streaks-->
+[![Hernandsv01's GitHub stats](https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Hernandsv01's GitHub stats](https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ###
 
