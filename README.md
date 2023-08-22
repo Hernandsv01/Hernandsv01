@@ -37,7 +37,7 @@
   
   <!--Commit streaks-->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" alt="Hernandsv01's Commit Streaks" height="150">
+    <img src="https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" alt="Hernandsv01's Commit Streaks" height="150">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://streak-stats.demolab.com?user=Hernandsv01&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" alt="Hernandsv01's Commit Streaks" height="150">
