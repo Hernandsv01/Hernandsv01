@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Node.js<br>🎓Working on my Computer Science and Engineering major at Universidad de Buenos Aires</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Node.js<br>🎓Working on my Computer Science and Engineering degree at Universidad de Buenos Aires</p>
 
 ###
 
